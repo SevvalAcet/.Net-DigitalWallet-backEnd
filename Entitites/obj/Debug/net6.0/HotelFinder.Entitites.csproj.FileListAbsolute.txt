@@ -1,0 +1,14 @@
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\bin\Debug\net6.0\HotelFinder.Entitites.deps.json
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\bin\Debug\net6.0\HotelFinder.Entitites.runtimeconfig.json
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\bin\Debug\net6.0\HotelFinder.Entitites.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\bin\Debug\net6.0\HotelFinder.Entitites.pdb
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.csproj.AssemblyReference.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.AssemblyInfoInputs.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.AssemblyInfo.cs
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.csproj.CoreCompileInputs.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\refint\HotelFinder.Entitites.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.pdb
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\HotelFinder.Entitites.genruntimeconfig.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Entitites\obj\Debug\net6.0\ref\HotelFinder.Entitites.dll

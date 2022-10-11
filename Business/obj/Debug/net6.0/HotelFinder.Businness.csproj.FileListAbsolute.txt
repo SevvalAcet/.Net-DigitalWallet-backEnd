@@ -1,0 +1,5 @@
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Businness\obj\Debug\net6.0\HotelFinder.Businness.csproj.AssemblyReference.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Businness\obj\Debug\net6.0\HotelFinder.Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Businness\obj\Debug\net6.0\HotelFinder.Businness.AssemblyInfoInputs.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Businness\obj\Debug\net6.0\HotelFinder.Businness.AssemblyInfo.cs
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.Businness\obj\Debug\net6.0\HotelFinder.Businness.csproj.CoreCompileInputs.cache

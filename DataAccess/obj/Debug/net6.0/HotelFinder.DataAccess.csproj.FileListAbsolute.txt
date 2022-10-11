@@ -1,0 +1,17 @@
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.deps.json
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.runtimeconfig.json
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.pdb
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.Entitites.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.Entitites.pdb
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.csproj.CopyComplete
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\refint\HotelFinder.DataAccess.dll
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.pdb
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.genruntimeconfig.cache
+C:\Users\sevvalacet\source\repos\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\ref\HotelFinder.DataAccess.dll
